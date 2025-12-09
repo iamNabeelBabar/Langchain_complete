@@ -7,7 +7,9 @@ This roadmap takes you from the absolute basics of connecting to an LLM, through
 2.  **Models (LLMs vs. Chat Models)**: Understanding the difference between standard completion models (text-in/text-out) and chat models (message-based interactions).
 3.  **Prompt Templates**: Creating dynamic, reusable prompts using `PromptTemplate` and `ChatPromptTemplate` to manage user inputs and system instructions.
 4.  **Output Parsers**: formatting the unstructured text response from an LLM into structured data (e.g., JSON, Lists, Pydantic objects) that code can use.
-5.  **LangChain Expression Language (LCEL)**: The modern declarative syntax (using the `|` pipe operator) to compose chains easily.
+5.  **LangChain Expression Language (LCEL)**: The modern declarative syntax (using the `|` pipe operator) to compose chains easily.<br><br>
+![What is Langchain?](/1_8nod5Ke1-hEuaRnK_tCGgw.jpg)
+
 
 ### **Phase 2: Data & Retrieval (RAG)**
 6.  **Document Loaders**: Loading proprietary data from various sources (PDFs, Text files, Web URLs, YouTube transcripts, etc.).
